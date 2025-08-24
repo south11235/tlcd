@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/tlcd/</loc>
+    <loc>/</loc>
     <lastmod>2025-08-18T19:32:29-06:00</lastmod>
   </url><url>
-    <loc>/tlcd/posts/not-last-call-yet/</loc>
+    <loc>/posts/not-last-call-yet/</loc>
     <lastmod>2025-08-18T19:32:29-06:00</lastmod>
   </url><url>
-    <loc>/tlcd/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2025-08-18T19:32:29-06:00</lastmod>
   </url><url>
-    <loc>/tlcd/about/</loc>
+    <loc>/about/</loc>
     <lastmod>1998-04-21T20:22:28-06:00</lastmod>
   </url><url>
-    <loc>/tlcd/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>/tlcd/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
